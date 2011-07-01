@@ -22,6 +22,10 @@ Shield as many elements as you wish with a single function call:
 
     $('input, button, select, textarea').shield();
 
+# Example
+
+http://jsbin.com/shield/edit
+
 # License
 
 Dual licensed under the MIT or GPL Version 2 licenses.
