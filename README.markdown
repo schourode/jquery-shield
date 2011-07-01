@@ -18,6 +18,10 @@ The `fog` class might have a semitransparent background color, and possibly also
 
     $('#shy').shield().hide().addClass('silky').fadeIn();
 
+Shield as many elements as you wish with a single function call:
+
+    $('input, button, select, textarea').shield();
+
 # License
 
 Dual licensed under the MIT or GPL Version 2 licenses.
