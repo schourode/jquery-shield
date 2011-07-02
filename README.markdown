@@ -24,8 +24,14 @@ Shield as many elements as you wish with a single function call:
 
 # Example
 
-http://jsbin.com/shield/edit
+Try out this simple [jQuery-shield() example on JS bin][jsbin], where you can see and modify the sample live in your browser. For an example of the plugin used on a production site, try selecting some of the different colors available for [Fritz Hansen's Egg chair][fritz].
+
+[jsbin]: http://jsbin.com/shield/edit
+[fritz]: http://www.fritzhansen.com/en/egg-easy-chair-3316
 
 # License
 
-Dual licensed under the MIT or GPL Version 2 licenses.
+Dual licensed under the MIT or GPL Version 2 licenses:
+
+ * http://www.opensource.org/licenses/mit
+ * http://www.opensource.org/licenses/gpl-2.0
